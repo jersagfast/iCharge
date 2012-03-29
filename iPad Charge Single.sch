@@ -4499,6 +4499,9 @@ Source: http://www.osram.convergy.de/</description>
 <pinref part="X1" gate="G$1" pin="D+"/>
 <pinref part="R2" gate="G$1" pin="1"/>
 <pinref part="R4" gate="G$1" pin="2"/>
+<junction x="43.18" y="48.26"/>
+<junction x="81.28" y="55.88"/>
+<junction x="81.28" y="50.8"/>
 </segment>
 </net>
 <net name="N$4" class="0">
@@ -4514,6 +4517,9 @@ Source: http://www.osram.convergy.de/</description>
 <pinref part="X1" gate="G$1" pin="D-"/>
 <pinref part="R1" gate="G$1" pin="1"/>
 <pinref part="R3" gate="G$1" pin="2"/>
+<junction x="43.18" y="50.8"/>
+<junction x="71.12" y="55.88"/>
+<junction x="81.28" y="48.26"/>
 </segment>
 </net>
 <net name="N$1" class="0">
@@ -4537,6 +4543,7 @@ Source: http://www.osram.convergy.de/</description>
 <junction x="96.52" y="55.88"/>
 <pinref part="R5" gate="G$1" pin="1"/>
 <junction x="96.52" y="58.42"/>
+<junction x="43.18" y="53.34"/>
 </segment>
 </net>
 <net name="GND" class="0">
@@ -4568,6 +4575,9 @@ Source: http://www.osram.convergy.de/</description>
 <junction x="96.52" y="53.34"/>
 <pinref part="LED2" gate="G$1" pin="C"/>
 <junction x="104.14" y="68.58"/>
+<junction x="43.18" y="55.88"/>
+<junction x="81.28" y="38.1"/>
+<junction x="71.12" y="38.1"/>
 </segment>
 </net>
 <net name="N$2" class="0">
